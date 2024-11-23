@@ -74,7 +74,7 @@ move option is used change the print position of the product to be printed on th
 ### SLICING AND PREVEIWING THE MODEL
 
 
-![Screenshot 2023-06-13 094952](https://github.com/gururamu08/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707009/cd544457-36b5-4a16-bde4-66c1337a824b)
+![Screenshot 2024-11-23 104442](https://github.com/user-attachments/assets/0df24875-6867-40fb-94f8-ec1f2854088b)
 
 
 ### Name: HARISHKUMAR R
